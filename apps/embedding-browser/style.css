@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 3rem;
+  padding: 2rem;
+}
+
+.inputs {
+  display: flex;
+}
+
+.output {
+  display: flex;
+}
